@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 
-<!-- Mirrored from demo-egenslab.b-cdn.net/html/Around Tech Solutions/preview/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Oct 2024 10:50:45 GMT -->
 <head>
 
 <meta charset="utf-8">
@@ -50,68 +49,8 @@
 </div>
 
 
-<div class=" header-sidebar">
-<div class="siderbar-top">
-<div class="sidebar-log">
-<a href="index.html"><img src="assets/img/logo.svg" alt></a>
-</div>
-<div class="close-btn">
-<i class="bi bi-x-lg"></i>
-</div>
-</div>
-<div class="sidebar-content">
-<p>Duis a orci nunc. Suspendisse ac convallis sapien, quis commodo libero. Donec nec duomoi luctus, pellentesque lacus sed, mollis going leo.</p>
-</div>
-<div class="address-card">
-<div class="content">
-<div class="informations">
-<div class="single-info">
-<div class="icon">
-<i class="fas fa-map-marker-alt"></i>
-</div>
-<div class="info">
-<p>A 929 , 9th floor
-Bhutani Alphathum , Sector-90
-Noida 201305</p>
-</div>
-</div>
-<div class="single-info">
-<div class="icon">
-<i class="fas fa-phone-alt"></i>
-</div>
-<div class="info">
-<a href="tel:05661111985">+91 8979369386</a>
-<a href="tel:06571111576">+880 657 1111 576</a>
-</div>
-</div>
-<div class="single-info">
-<div class="icon">
-<i class="far fa-envelope"></i>
-</div>
-<div class="info">
-<a href="https://demo-egenslab.b-cdn.net/cdn-cgi/l/email-protection#2000494e464f604558414d504c450e434f4d"><span class="__cf_email__" data-cfemail="41282f272e012439202c312d246f222e2c">[email&#160;protected]</span></a>
-<a href="https://demo-egenslab.b-cdn.net/cdn-cgi/l/email-protection#0121686f676e41727471716e73752f626e6c"><span class="__cf_email__" data-cfemail="8ae3e4ece5caf9fffafae5f8fea4e9e5e7">[email&#160;protected]</span></a>
-</div>
-</div>
-</div>
-</div>
 
-</div>
-<div class="follow-area">
-<h5 class="blog-widget-title">Follow Us</h5>
-<p class="para">Follow us on Social Network</p>
-<div class="blog-widget-body">
-<ul class="follow-list d-flex flex-row align-items-start gap-4">
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://www.twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-
-<header class="header-area2">
+<!-- <header class="header-area2">
 <div class="header-logo">
 <a href="index.html"><img alt="image" class="img-fluid" src="assets/img/logo.svg"></a>
 </div>
@@ -205,7 +144,7 @@ Noida 201305</p>
     </svg>
   </div>
 </a>
-  <!-- <nav class="popup-window">
+ <nav class="popup-window">
     <legend>Quick Start</legend>
     <ul>
       <li>
@@ -247,12 +186,13 @@ Noida 201305</p>
         </button>
       </li>
     </ul>
-  </nav> -->
+  </nav> 
 </label>
 
 </div>
-</header>
 
+</header> -->
+<?php include './assets/components/header.php'; ?>  
 
 <section class="breadcrumbs">
 <div class="breadcrumb-sm-images">
@@ -269,7 +209,7 @@ Noida 201305</p>
 <div class="breadcrumb-wrapper">
 <div class="breadcrumb-cnt">
 <span>About</span>
-<h1>"Get To Know About Around Tech Solutions"</h1>
+<h1>"Learn About Around Tech Solutions"</h1>
 <div class="breadcrumb-list">
 <a href="index.html">Home</a><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt> About
 </div>
@@ -280,54 +220,6 @@ Noida 201305</p>
 </div>
 </section>
 
-<!-- 
-<div class="home3-about-section sec-mar">
-<div class="container-fluid">
-<div class="row g-lg-4 gy-5">
-<div class="col-lg-9">
-<div class="section-title-3 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-<h2>Our Approach</h2>
-<p>Services are professional offerings provided by businesses to meet specific needs or solve problems for their customers. Services can range from your budject.</p>
-</div>
-<div class="about-left">
-<div class="about-img  wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-<img class="img-fluid magnetic-item" src="assets/img/home-3/home3-about-1.png" alt>
-</div>
-<div class="about-content wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
-<h2>Unlock the potential of your business.</h2>
-<p>We believe in delivering tailored solutions that are designed to address your unique requirements. We take the time to understand your business and provide personalized services that align with your goals.</p>
-<div class="devider"></div>
-<ul class="about-feature">
-<li>
-<h5>Customized Solutions</h5>
-<p>Services are professional w offerings provided.</p>
-</li>
-<li>
-<h5>Quality Reliability</h5>
-<p>Services are professional w offerings provided.</p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-3">
-<div class="about-right">
-<div class="about-img wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-<img class="img-fluid magnetic-item" src="assets/img/home-3/home3-about-2.png" alt>
-</div>
-<div class="about-exprience d-flex align-items-center justify-content-center wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-<div class="exp-text">
-<img src="assets/img/home-3/rotate-text.png" alt>
-</div>
-<div class="years">
-<h2>10<br><span>Years</span></h2>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div> -->
 
 
 <div class="home6-choose-section sec-mar">
@@ -359,9 +251,9 @@ Noida 201305</p>
 <div class="icon">
 <img src="assets/img/logo.svg" alt>
 </div>
-<h4>Best Creative IT Agency And Solutions <br>
-<span>Since 2005.</span></h4>
-<p>Morbi interdum pellentesque nunc, luctus pretium nullagoneq luctus at. Aliquam cursus nunc arcu, condimentum efficiturunt tellus iaculis faucibus Quisque gravida.</p>
+<h4>Advanced Creative IT Agency And Solutions <br>
+<span>Since 2021.</span></h4>
+<p>"At Around Tech Solutions, we understand that every business has unique challenges. Our team works closely with clients to develop customized strategies that address specific needs and goals, ensuring maximum impact and value."</p>
 <div class="sl">
 <h2>#1</h2>
 </div>
@@ -396,7 +288,7 @@ About More
 </div>
 <div class="content">
 <h4>Audience</h4>
-<p>Morbi interdum pellentesque nunc, luctuso pretium nullagoneq luctus at. Aliquam one cursus nunc arcu</p>
+<p>"Audience refers to the specific group of individuals or organizations that businesses aim to reach with their strategies. Understanding the audience is crucial for tailoring approaches that effectively meet their needs and solve their problems, regardless of budget."</p>
 </div>
 </div>
 </li>
@@ -407,7 +299,7 @@ About More
 </div>
 <div class="content">
 <h4>Keyword</h4>
-<p>Morbi interdum pellentesque nunc, luctuso pretium nullagoneq luctus at. Aliquam one cursus nunc arcu</p>
+<p>"Strategies are professional solutions developed by businesses to meet specific needs or solve problems for their customers. These strategies can be customized to fit various budgets, providing tailored approaches for clients of all sizes."</p>
 </div>
 </div>
 </li>
@@ -427,8 +319,9 @@ About More
 <div class="row g-xl-4 gy-5">
 <div class="col-xl-3 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
 <div class="section-title-4">
-<h2>Our States</h2>
-<p>Maecenas euismod viverra purus, volutpat posuere mauris tristique quisokaft.</p>
+<h2>Our Progress</h2>
+<p>
+AroundTech Solutions demonstrates progress through enhanced operational efficiency, measurable outcomes, scalable solutions, continuous improvement, and high client satisfaction.</p>
 </div>
 </div>
 <div class="col-xl-9 d-flex justify-content-end">
@@ -455,7 +348,7 @@ About More
 </div>
 <div class="content">
 <div class="number">
-<h3 class="counter">5</h3>
+<h3 class="counter">3</h3>
 <span>Years</span>
 </div>
 <p>Working With Passion</p>
@@ -483,7 +376,7 @@ About More
 </div>
 <div class="content">
 <div class="number">
-<h3 class="counter">1.5</h3>
+<h3 class="counter">0.5</h3>
 <h3 class="ml-5">k</h3>
 <span>Customer</span>
 </div>
@@ -512,7 +405,7 @@ About More
 </div>
 <div class="content">
 <div class="number">
-<h3 class="counter">800</h3>
+<h3 class="counter">120</h3>
 <span>Project</span>
 </div>
 <p>We Have Completed</p>
@@ -537,7 +430,7 @@ About More
 </div>
 <div class="content">
 <div class="number">
-<h3 class="counter">15</h3>
+<h3 class="counter">5</h3>
 <span>Awards</span>
 </div>
 <p>Achievement For Service</p>
@@ -553,7 +446,7 @@ About More
 
 
 <div class="home4-trusted-client-area sec-mar">
-<p>We take care of more than 1.5k Trusted Allies</p>
+<p>We take care of more than 0.5k Trusted Allies</p>
 <div class="marque-wrap">
 <div class="marquee_text">
 <div class="single-client">
@@ -679,7 +572,7 @@ About More
     </div>
     </div>
     <div class="team-content">
-    <h5>Mateo Daniel</h5>
+    <h5>Kapil Chaudhary</h5>
     <span>Founder, CTO</span>
     </div>
     </div>
@@ -698,8 +591,8 @@ About More
     </div>
     </div>
     <div class="team-content">
-    <h5>Carter Jayden</h5>
-    <span>Co-Founder, CEO</span>
+    <h5>Kuldeep Chaudhary </h5>
+    <span>Full Stack Developer</span>
     </div>
     </div>
     </div>
@@ -717,8 +610,8 @@ About More
     </div>
     </div>
     <div class="team-content">
-    <h5>Andrew Santiago</h5>
-    <span>Head of HR & Manager</span>
+    <h5>Shakshi Kumari</h5>
+    <span>Junior full Stack Devoloper</span>
     </div>
     </div>
     </div>
@@ -736,8 +629,8 @@ About More
     </div>
     </div>
     <div class="team-content">
-    <h5>George Lorenzo</h5>
-    <span>Software Engineer</span>
+    <h5>Alok Sant</h5>
+    <span>Sales Head</span>
     </div>
     </div>
     </div>
@@ -939,129 +832,6 @@ Donec lacinia placerat felis non aliquam.”</p>
 </div>
 
 
-<div class="home3-team-area sec-mar">
-<div class="container">
-<div class="row mb-55 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-<div class="col-lg-12 d-flex justify-content-center">
-<div class="section-title-3 text-center">
-<h2>Team Members</h2>
-<p>Services are professional offerings provided by businesses to meet specific needs or solve problems for their customers. Services can range from your budject.</p>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-lg-12">
-<div class="swiper home3-team-slider">
-<div class="swiper-wrapper">
-<div class="swiper-slide">
-<div class="single-team">
-<div class="team-img">
-<img class="img-fluid" src="assets/img/home-3/team-01.png" alt>
-<div class="social-area">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-</div>
-</div>
-<div class="team-content">
-<h5>Mateo Daniel</h5>
-<span>Founder, CTO</span>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="single-team">
-<div class="team-img">
-<img class="img-fluid" src="assets/img/home-3/team-02.png" alt>
-<div class="social-area">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-</div>
-</div>
-<div class="team-content">
-<h5>Carter Jayden</h5>
-<span>Co-Founder, CEO</span>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="single-team">
-<div class="team-img">
-<img class="img-fluid" src="assets/img/home-3/team-03.png" alt>
-<div class="social-area">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-</div>
-</div>
-<div class="team-content">
-<h5>Andrew Santiago</h5>
-<span>Head of HR & Manager</span>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="single-team">
-<div class="team-img">
-<img class="img-fluid" src="assets/img/home-3/team-04.png" alt>
-<div class="social-area">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-</div>
-</div>
-<div class="team-content">
-<h5>George Lorenzo</h5>
-<span>Software Engineer</span>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="row pt-50">
-<div class="col-lg-12 position-relative">
-<div class="swiper-pagination22"></div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="home3-contact-area sec-mar">
-<div class="container-fluid">
-<div class="row">
-<div class="col-lg-12">
-<div class="contact-wrapper text-center">
-<h2 class="marquee_text">We take care of your IT, So You Can Focus on Your Business.</h2>
-<div class="contact-btn magnetic-item  wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-<a href="contact.html">
-Contact With Us.
-<svg width="32" height="32" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
-</svg>
-</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
 
 <div class="home3-blog-area sec-mar">
 <div class="container">
@@ -1183,136 +953,12 @@ Contact With Us.
 </div>
 </div>
 
+<!-- Footer Section Starts -->
 
-<footer>
-<div class="footer-top">
-<div class="container">
-<div class="row">
-<!-- <div class="col-lg-12">
-<div class="footer-top-content">
-<div class="footer-logo">
-<a href="index.html"><img class="img-fluid" src="assets/img/logo.svg" alt></a>
-</div>
-<div class="footer-contect">
-<div class="icon">
-<svg width="33" height="33" viewBox="0 0 33 33" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_1999_295)">
-<path d="M26.0808 20.4417C25.4052 19.7383 24.5903 19.3622 23.7267 19.3622C22.87 19.3622 22.0481 19.7313 21.3447 20.4348L19.1438 22.6287C18.9627 22.5312 18.7816 22.4407 18.6075 22.3501C18.3568 22.2248 18.12 22.1063 17.918 21.981C15.8564 20.6716 13.9828 18.9652 12.1859 16.7573C11.3153 15.6569 10.7302 14.7305 10.3054 13.7903C10.8765 13.2679 11.4058 12.7247 11.9212 12.2023C12.1162 12.0073 12.3113 11.8053 12.5063 11.6103C13.9689 10.1477 13.9689 8.25321 12.5063 6.79058L10.6049 4.88917C10.3889 4.67326 10.1661 4.45038 9.95713 4.22751C9.53923 3.79569 9.10045 3.34993 8.64773 2.93204C7.97214 2.26341 7.16421 1.9082 6.3145 1.9082C5.46478 1.9082 4.64293 2.26341 3.94644 2.93204C3.93947 2.939 3.93947 2.939 3.93251 2.94597L1.56445 5.33492C0.672947 6.22643 0.164512 7.31295 0.0530735 8.57359C-0.114084 10.6073 0.484896 12.5018 0.944577 13.7415C2.07289 16.7852 3.75839 19.606 6.27271 22.6287C9.32332 26.2713 12.9938 29.1478 17.1867 31.1746C18.7886 31.9338 20.9268 32.8323 23.3158 32.9855C23.462 32.9924 23.6152 32.9994 23.7545 32.9994C25.3634 32.9994 26.7146 32.4213 27.7733 31.2721C27.7802 31.2582 27.7942 31.2512 27.8011 31.2373C28.1633 30.7985 28.5812 30.4015 29.02 29.9767C29.3195 29.6911 29.6259 29.3916 29.9254 29.0782C30.6149 28.3608 30.9771 27.525 30.9771 26.6683C30.9771 25.8047 30.608 24.9759 29.9045 24.2794L26.0808 20.4417ZM28.5742 27.7758C28.5673 27.7758 28.5673 27.7827 28.5742 27.7758C28.3026 28.0683 28.024 28.3329 27.7245 28.6255C27.2718 29.0573 26.8121 29.51 26.3803 30.0184C25.6768 30.7707 24.848 31.1259 23.7615 31.1259C23.657 31.1259 23.5456 31.1259 23.4411 31.1189C21.3726 30.9866 19.4503 30.1786 18.0085 29.4891C14.0664 27.5807 10.6049 24.8714 7.72837 21.4377C5.35334 18.5752 3.76535 15.9285 2.71366 13.0868C2.06592 11.3526 1.82912 10.0014 1.93359 8.72682C2.00324 7.91193 2.31666 7.23633 2.89474 6.65825L5.26976 4.28323C5.61104 3.96284 5.97322 3.78872 6.32843 3.78872C6.76721 3.78872 7.12242 4.05339 7.3453 4.27626C7.35226 4.28323 7.35923 4.29019 7.36619 4.29716C7.79105 4.69415 8.19501 5.10508 8.61987 5.54387C8.83578 5.76675 9.05866 5.98962 9.28153 6.21946L11.1829 8.12087C11.9212 8.85915 11.9212 9.54171 11.1829 10.28C10.981 10.482 10.7859 10.6839 10.584 10.879C9.99891 11.4779 9.44173 12.0351 8.83578 12.5784C8.82185 12.5923 8.80792 12.5993 8.80096 12.6132C8.20198 13.2122 8.31342 13.7972 8.43878 14.1942C8.44575 14.2151 8.45271 14.236 8.45968 14.2569C8.95418 15.4549 9.65067 16.5832 10.7093 17.9274L10.7163 17.9344C12.6386 20.3024 14.6654 22.1481 16.9011 23.562C17.1867 23.7431 17.4792 23.8894 17.7578 24.0287C18.0085 24.154 18.2453 24.2724 18.4473 24.3978C18.4752 24.4117 18.503 24.4326 18.5309 24.4465C18.7677 24.5649 18.9906 24.6207 19.2204 24.6207C19.7985 24.6207 20.1607 24.2585 20.2791 24.1401L22.6611 21.7581C22.8979 21.5213 23.274 21.2357 23.7128 21.2357C24.1446 21.2357 24.4998 21.5074 24.7157 21.7442C24.7227 21.7511 24.7227 21.7511 24.7296 21.7581L28.5673 25.5958C29.2847 26.3062 29.2847 27.0375 28.5742 27.7758Z" />
-<path d="M17.8345 7.85011C19.6593 8.15656 21.3169 9.02021 22.6403 10.3435C23.9636 11.6669 24.8203 13.3245 25.1337 15.1493C25.2103 15.609 25.6073 15.9294 26.06 15.9294C26.1157 15.9294 26.1645 15.9224 26.2202 15.9154C26.7356 15.8319 27.0769 15.3443 26.9933 14.8289C26.6172 12.621 25.5725 10.6082 23.9775 9.01324C22.3826 7.41829 20.3697 6.37355 18.1618 5.99745C17.6464 5.91387 17.1659 6.25515 17.0753 6.76359C16.9848 7.27202 17.3191 7.76653 17.8345 7.85011Z" />
-<path d="M32.9619 14.557C32.3421 10.9213 30.6287 7.61301 27.996 4.98029C25.3633 2.34757 22.055 0.634209 18.4193 0.0143347C17.9108 -0.0762086 17.4303 0.272035 17.3397 0.780471C17.2562 1.29587 17.5974 1.77645 18.1128 1.86699C21.3585 2.41722 24.3185 3.95645 26.6727 6.30362C29.0268 8.65774 30.5591 11.6178 31.1093 14.8634C31.1859 15.3231 31.5829 15.6435 32.0356 15.6435C32.0913 15.6435 32.1401 15.6365 32.1958 15.6296C32.7042 15.553 33.0525 15.0654 32.9619 14.557Z" />
-</g>
-</svg>
-</div>
-<div class="content">
-<span>Call Any Time</span>
-<h6><a href="tel: 29658718617">2-965-871-8617</a></h6>
-</div>
-</div>
-</div>
-</div> -->
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row g-lg-4 gy-5">
-<div class="col-lg-4 col-sm-6 d-flex">
-<div class="footer-widget">
-<div class="footer-contact mb-40">
-<h4>
-<svg width="14" height="20" viewBox="0 0 14 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.9213 3.4249C11.7076 1.33021 9.55162 0.0504883 7.15416 0.00158203C7.05181 -0.000527344 6.9488 -0.000527344 6.84642 0.00158203C4.449 0.0504883 2.29306 1.33021 1.07923 3.4249C-0.161468 5.566 -0.195414 8.13787 0.988414 10.3047L5.94791 19.3823C5.95013 19.3863 5.95236 19.3904 5.95466 19.3944C6.17287 19.7736 6.56377 20 7.00037 20C7.43693 20 7.82783 19.7736 8.04599 19.3944C8.0483 19.3904 8.05052 19.3863 8.05275 19.3823L13.0122 10.3047C14.196 8.13787 14.162 5.566 12.9213 3.4249ZM7.00029 9.06252C5.44947 9.06252 4.18779 7.80084 4.18779 6.25002C4.18779 4.6992 5.44947 3.43752 7.00029 3.43752C8.55111 3.43752 9.81279 4.6992 9.81279 6.25002C9.81279 7.80084 8.55115 9.06252 7.00029 9.06252Z" />
-</svg>
-Address
-</h4>
-<a href="#">A 929 , 9th floor
-Bhutani Alphathum , Sector-90
-Noida 201305</a>
-</div>
+<?php include './assets/components/footer.php'; ?> 
 
-<div class="footer-contact">
-<h6>See Our New updates</h6>
-<form>
-<div class="form-inner">
-<input type="text" placeholder="Email here...">
-<button type="submit">
-<svg width="17" height="17" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
-</svg>
-</button>
-</div>
-</form>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6 d-flex justify-content-lg-start justify-content-sm-end">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Our Solutions</h4>
-</div>
-<div class="menu-container">
-<ul>
-<li><a href="service.html">Web Development</a></li>
-<li><a href="service.html">Mobile Development</a></li>
-<li><a href="service.html">Cloud Services</a></li>
-<li><a href="service.html">Network Connectivity</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-2 col-sm-6 d-flex justify-content-lg-center">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Company</h4>
-</div>
-<div class="menu-container">
-<ul>
-<li><a href="about.html">About Us</a></li>
-<li><a href="case-study.html">Case Study</a></li>
-<li><a href="blog.html">News & Article</a></li>
-<li><a href="team1.html">Our Team</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6 d-flex justify-content-sm-end">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Resources</h4>
-</div>
-<div class="menu-container">
-<ul>
-<li><a href="#">Support Area</a></li>
-<li><a href="#">Support Policy</a></li>
-<li><a href="#">Terms & Conditions</a></li>
-<li><a href="pricing.html">Pricing Plan</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="footer-btm">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="footer-btn-content">
-<div class="copyright-area">
-<p>©Copyright 2023 <a href="#">Around Tech Solutions</a> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
-</div>
-<div class="footer-social">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.linkedin.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</footer>
+ <!-- Footer Section Ends -->
+
 
 
 <script data-cfasync="false" src="../../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="assets/js/jquery-3.6.0.min.js"></script>
