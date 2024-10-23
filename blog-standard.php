@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="assets/css/style2.css">
 
 <title>Around Tech Solutions</title>
-<link rel="icon" href="assets/img/sm-logo.svg" type="image/gif" sizes="20x20">
+<link rel="icon" href="assets/img/sm-logo.png" type="image/gif" sizes="20x20">
 </head>
 <body class="home-dark2 tt-magic-cursor">
 
@@ -48,10 +48,137 @@
 </div>
 </div>
 
+<<<<<<< HEAD:blog-standard.php
+=======
+<div class="header-sidebar">
+<div class="siderbar-top">
+<div class="sidebar-log">
+<a href="index.html"><img src="assets/img/logo.png" alt></a>
+</div>
+<div class="close-btn">
+<i class="bi bi-x-lg"></i>
+</div>
+</div>
+<div class="sidebar-content">
+<p>Duis a orci nunc. Suspendisse ac convallis sapien, quis commodo libero. Donec nec duomoi luctus, pellentesque lacus sed, mollis going leo.</p>
+</div>
+<div class="address-card">
+<div class="content">
+<div class="informations">
+<div class="single-info">
+<div class="icon">
+<i class="fas fa-map-marker-alt"></i>
+</div>
+<div class="info">
+<p>A 929 , 9th floor
+Bhutani Alphathum , Sector-90
+Noida 201305</p>
+</div>
+</div>
+<div class="single-info">
+<div class="icon">
+<i class="fas fa-phone-alt"></i>
+</div>
+<div class="info">
+<a href="tel:05661111985">+91 8979369386</a>
+<a href="tel:06571111576">+880 657 1111 576</a>
+</div>
+</div>
+<div class="single-info">
+<div class="icon">
+<i class="far fa-envelope"></i>
+</div>
+<div class="info">
+<a href="https://demo-egenslab.b-cdn.net/cdn-cgi/l/email-protection#75551c1b131a35100d14180519105b161a18"><span class="__cf_email__" data-cfemail="e28b8c848da2879a838f928e87cc818d8f">[email&#160;protected]</span></a>
+<a href="https://demo-egenslab.b-cdn.net/cdn-cgi/l/email-protection#02226b6c646d42717772726d70762c616d6f"><span class="__cf_email__" data-cfemail="61080f070e21121411110e13154f020e0c">[email&#160;protected]</span></a>
+</div>
+</div>
+</div>
+</div>
+>>>>>>> 29d12ac26cc9d660f6bfcaf7e932405a87946b2b:blog-standard.html
 
 <!-- Header Section Starts -->
 
+<<<<<<< HEAD:blog-standard.php
 <?php include './assets/components/header.php'; ?>
+=======
+<header class="header-area2">
+<div class="header-logo">
+<a href="index.html"><img alt="image" class="img-fluid" src="assets/img/logo.png"></a>
+</div>
+<div class="main-menu">
+<div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
+<div class="mobile-logo-wrap">
+<a href="index.html"><img alt="image" src="assets/img/logo.png"></a>
+</div>
+</div>
+<ul class="menu-list">
+<li class="menu-item-has-children">
+<a href="index.html" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
+<!-- <ul class="sub-menu">
+<li><a href="index.html">Home 01</a></li>
+<li><a href="index2.html">Home 02</a></li>
+<li><a href="index3.html">Home 03</a></li>
+<li><a href="index4.html">Home 04</a></li>
+</ul> -->
+</li>
+<li><a href="about.html">About</a></li>
+<li class="menu-item-has-children">
+<a href="service4.html" class="drop-down">Service</a><i class="bi bi-plus dropdown-icon"></i>
+<!-- <ul class="sub-menu">
+<li><a href="service.html">Service 01</a></li>
+<li><a href="service2.html">Service 02</a></li>
+<li><a href="service3.html">Service 03</a></li>
+<li><a href="service4.html">Service 04</a></li>
+<li><a href="service-details.html">Service Details</a></li>
+</ul> -->
+</li>
+<li class="menu-item-has-children">
+<a href="project-masonary.html" class="drop-down">Project</a><i class="bi bi-plus dropdown-icon"></i>
+<!-- <ul class="sub-menu">
+<li><a href="project.html">Project</a></li>
+<li><a href="project-masonary.html">Project Masonry</a></li>
+<li><a href="project-details.html">Project Details</a></li>
+</ul> -->
+</li>
+<li class="menu-item-has-children active">
+    <a href="blog-standard.html" class="drop-down">Blog</a><i class="bi bi-plus dropdown-icon"></i>
+    <!-- <ul class="sub-menu">
+    <li><a href="blog.html">Blog</a></li>
+    <li><a href="blog-standard.html">Blog standard</a></li>
+    <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
+    <li><a href="blog-masonary.html">Blog Masonary</a></li>
+    <li><a href="blog-details.html">Blog Details</a></li>
+    </ul> -->
+    </li>
+<li class="menu-item-has-children">
+<a href="contact.html" class="drop-down">Contact</a><i class="bi bi-plus dropdown-icon"></i>
+<!-- <ul class="sub-menu">
+<li>
+<a href="team1.html">Team</a>
+<i class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
+<i class="d-lg-none d-flex bi bi-plus dropdown-icon"></i>
+<ul class="sub-menu">
+<li><a href="team1.html">Team 01</a></li>
+<li><a href="team2.html">Team 02</a></li>
+<li><a href="team3.html">Team 03</a></li>
+</ul>
+</li>
+<li>
+<a href="pricing.html">Pricing</a>
+<i class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
+<i class="d-lg-none d-flex bi bi-plus dropdown-icon"></i>
+<ul class="sub-menu">
+<li><a href="pricing.html">Pricing 01</a></li>
+<li><a href="pricing2.html">Pricing 02</a></li>
+</ul>
+</li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="faq.html">FAQs</a></li>
+<li><a href="error.html">Error 404</a></li>
+</ul> -->
+</li>
+>>>>>>> 29d12ac26cc9d660f6bfcaf7e932405a87946b2b:blog-standard.html
 
 
 <!-- Header Section Ends  -->
