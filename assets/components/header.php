@@ -1,6 +1,6 @@
-<header class="header-area2 one">
+<header class="header-area2 one" style="background-color: #fff;">
 <div class="header-logo">
-<a href="index.html"><img alt="image" class="img-fluid" src="assets/img/logo.svg"></a>
+<a href="index.html"><img alt="image" class="img-fluid" src="assets/img/logo_black.png" style="height:80px;"></a>
 </div>
 <div class="main-menu">
 <div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
@@ -8,15 +8,18 @@
 <a href="index.html"><img alt="image" src="assets/img/logo.svg"></a>
 </div>
 </div>
-<ul class="menu-list">
-<li><a href="index.php" >Home</a><i ></i></li>
-<li><a href="about.php">About</a></li>
-<li><a href="service4.php" >Services</a><i ></i></li>
-<li><a href="project-masonary.php" >Portfolio</a><i></i></li>
-<li>    <a href="blog-standard.php" >Blog</a><i></i></li>
-<li><a href="contact.php" >Contact</a><i></i></li>
-<li style="padding-left:120px;;"><a href="./admin/page-login.html" ><img src="assets/img/home-3/star.svg" alt=""></a><i></i></li>
+<ul class="menu-list" style="color: #000;">
+    <li><a href="index.php" style="color:#000">Home</a><i></i></li>
+    <li><a href="about.php" style="color:#000">About</a></li>
+    <li><a href="service4.php" style="color:#000">Services</a><i></i></li>
+    <li><a href="project-masonary.php" style="color:#000">Portfolio</a><i></i></li>
+    <li><a href="blog-standard.php" style="color:#000">Blog</a><i></i></li>
+    <li><a href="contact.php" style="color:#000">Contact</a><i></i></li>
+    <!-- <li style="padding-left:120px;"><a href="./admin/page-login.html"><img src="assets/img/home-3/star.svg" alt=""></a><i></i></li> -->
 </ul>
+<style>
+    
+</style>
 <div class="d-lg-none d-block">
 <form class="mobile-menu-form">
 <div class="hotline pt-30">

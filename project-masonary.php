@@ -27,7 +27,7 @@
 <title>Around Tech Solutions</title>
 <link rel="icon" href="assets/img/sm-logo.svg" type="image/gif" sizes="20x20">
 </head>
-<body class="home-dark2 tt-magic-cursor">
+<body class="tt-magic-cursor">
 
 <div class="preloader">
 <div id="particles-background" class="vertical-centered-box"></div>
@@ -82,11 +82,11 @@
 </div>
 </section>
 
-<div class="portfolio-masonary-page sec-mar">
+<div class="portfolio-masonary-page sec-mar" >
 <div class="container">
 <div class="row">
 <div class="col-12">
-<ul class="isotope-menu">
+<ul class="isotope-menu" style="background-color: #000000;">
 <li class="active" data-filter="*">All</li>
 <li data-filter=".ui">UI/UX</li>
 <li data-filter=".web">Web Design</li>
@@ -177,7 +177,7 @@
 <div class="row">
 <div class="col-lg-12 d-flex justify-content-center">
 <div class="load-more-btn">
-<a class="primary-btn3" href="project-masonary.html">Load More </a>
+<a class="primary-btn3" href="#">Load More </a>
 </div>
 </div>
 </div>

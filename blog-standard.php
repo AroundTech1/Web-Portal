@@ -27,7 +27,7 @@
 <title>Around Tech Solutions</title>
 <link rel="icon" href="assets/img/sm-logo.png" type="image/gif" sizes="20x20">
 </head>
-<body class="home-dark2 tt-magic-cursor">
+<body class="tt-magic-cursor">
 
 <div class="preloader">
 <div id="particles-background" class="vertical-centered-box"></div>
@@ -48,137 +48,10 @@
 </div>
 </div>
 
-<<<<<<< HEAD:blog-standard.php
-=======
-<div class="header-sidebar">
-<div class="siderbar-top">
-<div class="sidebar-log">
-<a href="index.html"><img src="assets/img/logo.png" alt></a>
-</div>
-<div class="close-btn">
-<i class="bi bi-x-lg"></i>
-</div>
-</div>
-<div class="sidebar-content">
-<p>Duis a orci nunc. Suspendisse ac convallis sapien, quis commodo libero. Donec nec duomoi luctus, pellentesque lacus sed, mollis going leo.</p>
-</div>
-<div class="address-card">
-<div class="content">
-<div class="informations">
-<div class="single-info">
-<div class="icon">
-<i class="fas fa-map-marker-alt"></i>
-</div>
-<div class="info">
-<p>A 929 , 9th floor
-Bhutani Alphathum , Sector-90
-Noida 201305</p>
-</div>
-</div>
-<div class="single-info">
-<div class="icon">
-<i class="fas fa-phone-alt"></i>
-</div>
-<div class="info">
-<a href="tel:05661111985">+91 8979369386</a>
-<a href="tel:06571111576">+880 657 1111 576</a>
-</div>
-</div>
-<div class="single-info">
-<div class="icon">
-<i class="far fa-envelope"></i>
-</div>
-<div class="info">
-<a href="https://demo-egenslab.b-cdn.net/cdn-cgi/l/email-protection#75551c1b131a35100d14180519105b161a18"><span class="__cf_email__" data-cfemail="e28b8c848da2879a838f928e87cc818d8f">[email&#160;protected]</span></a>
-<a href="https://demo-egenslab.b-cdn.net/cdn-cgi/l/email-protection#02226b6c646d42717772726d70762c616d6f"><span class="__cf_email__" data-cfemail="61080f070e21121411110e13154f020e0c">[email&#160;protected]</span></a>
-</div>
-</div>
-</div>
-</div>
->>>>>>> 29d12ac26cc9d660f6bfcaf7e932405a87946b2b:blog-standard.html
 
 <!-- Header Section Starts -->
 
-<<<<<<< HEAD:blog-standard.php
 <?php include './assets/components/header.php'; ?>
-=======
-<header class="header-area2">
-<div class="header-logo">
-<a href="index.html"><img alt="image" class="img-fluid" src="assets/img/logo.png"></a>
-</div>
-<div class="main-menu">
-<div class="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
-<div class="mobile-logo-wrap">
-<a href="index.html"><img alt="image" src="assets/img/logo.png"></a>
-</div>
-</div>
-<ul class="menu-list">
-<li class="menu-item-has-children">
-<a href="index.html" class="drop-down">Home</a><i class="bi bi-plus dropdown-icon"></i>
-<!-- <ul class="sub-menu">
-<li><a href="index.html">Home 01</a></li>
-<li><a href="index2.html">Home 02</a></li>
-<li><a href="index3.html">Home 03</a></li>
-<li><a href="index4.html">Home 04</a></li>
-</ul> -->
-</li>
-<li><a href="about.html">About</a></li>
-<li class="menu-item-has-children">
-<a href="service4.html" class="drop-down">Service</a><i class="bi bi-plus dropdown-icon"></i>
-<!-- <ul class="sub-menu">
-<li><a href="service.html">Service 01</a></li>
-<li><a href="service2.html">Service 02</a></li>
-<li><a href="service3.html">Service 03</a></li>
-<li><a href="service4.html">Service 04</a></li>
-<li><a href="service-details.html">Service Details</a></li>
-</ul> -->
-</li>
-<li class="menu-item-has-children">
-<a href="project-masonary.html" class="drop-down">Project</a><i class="bi bi-plus dropdown-icon"></i>
-<!-- <ul class="sub-menu">
-<li><a href="project.html">Project</a></li>
-<li><a href="project-masonary.html">Project Masonry</a></li>
-<li><a href="project-details.html">Project Details</a></li>
-</ul> -->
-</li>
-<li class="menu-item-has-children active">
-    <a href="blog-standard.html" class="drop-down">Blog</a><i class="bi bi-plus dropdown-icon"></i>
-    <!-- <ul class="sub-menu">
-    <li><a href="blog.html">Blog</a></li>
-    <li><a href="blog-standard.html">Blog standard</a></li>
-    <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-    <li><a href="blog-masonary.html">Blog Masonary</a></li>
-    <li><a href="blog-details.html">Blog Details</a></li>
-    </ul> -->
-    </li>
-<li class="menu-item-has-children">
-<a href="contact.html" class="drop-down">Contact</a><i class="bi bi-plus dropdown-icon"></i>
-<!-- <ul class="sub-menu">
-<li>
-<a href="team1.html">Team</a>
-<i class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
-<i class="d-lg-none d-flex bi bi-plus dropdown-icon"></i>
-<ul class="sub-menu">
-<li><a href="team1.html">Team 01</a></li>
-<li><a href="team2.html">Team 02</a></li>
-<li><a href="team3.html">Team 03</a></li>
-</ul>
-</li>
-<li>
-<a href="pricing.html">Pricing</a>
-<i class="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
-<i class="d-lg-none d-flex bi bi-plus dropdown-icon"></i>
-<ul class="sub-menu">
-<li><a href="pricing.html">Pricing 01</a></li>
-<li><a href="pricing2.html">Pricing 02</a></li>
-</ul>
-</li>
-<li><a href="contact.html">Contact</a></li>
-<li><a href="faq.html">FAQs</a></li>
-<li><a href="error.html">Error 404</a></li>
-</ul> -->
-</li>
->>>>>>> 29d12ac26cc9d660f6bfcaf7e932405a87946b2b:blog-standard.html
 
 
 <!-- Header Section Ends  -->
@@ -197,10 +70,10 @@ Noida 201305</p>
 <div class="col-12">
 <div class="breadcrumb-wrapper">
 <div class="breadcrumb-cnt">
-<span>Blog Standard</span>
+<span>Blogs</span>
 <h1>"Exploring The Around Tech Solutions Blog"</h1>
 <div class="breadcrumb-list">
-<a href="index.html">Home</a><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt> Blog Standard
+<a href="index.html">Home</a><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt> Blogs
 </div>
 </div>
 </div>
@@ -219,7 +92,7 @@ Noida 201305</p>
 </div>
 <div class="banner-content">
 <h2>Blog</h2>
-<p>Join 50,000+ Subscribers</p>
+<p>Join 500+ Subscribers</p>
 <form>
 <div class="form-inner">
 <input type="text" placeholder="Email here...">
@@ -250,17 +123,17 @@ Subscribe
 <a href="blog-standard.html">Web development</a>
 </div>
 </div>
-<div class="blog-content">
+<div class="blog-content"style="background-color: #ebfbfc;">
 <ul class="blog-meta">
-<li><a href="blog-standard.html">May 20, 2023</a></li>
-<li><a href="blog-standard.html">Comment (3)</a></li>
+<li><a href="#" style="color: black">May 20, 2023</a></li>
+<li><a href="#" style="color: black">Comment (3)</a></li>
 </ul>
-<h4><a href="blog-details.html">Donec finibus laoreet exte eu pellentesque. </a></h4>
+<h4><a href="#" style="color: black">Donec finibus laoreet exte eu pellentesque. </a></h4>
 <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu nibh elementum, accumsan ona
 neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 <div class="blog-footer">
 <div class="read-btn">
-<a href="blog-details.html">Read More
+<a href="#">Read More
 <svg width="12" height="12" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
 </svg>
@@ -287,12 +160,12 @@ neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 <a href="blog-standard.html">Cloud solutions</a>
 </div>
 </div>
-<div class="blog-content">
+<div class="blog-content"  style="background-color: #ebfbfc;">
 <ul class="blog-meta">
-<li><a href="blog-standard.html">May 20, 2023</a></li>
-<li><a href="blog-standard.html">Comment (3)</a></li>
+<li><a href="#" style="color: black" >May 20, 2023</a></li>
+<li><a href="#" style="color: black" >Comment (3)</a></li>
 </ul>
-<h4><a href="blog-details.html">feugiat varius mattis mass enim est egestas.</a></h4>
+<h4><a href="#" style="color: black">feugiat varius mattis mass enim est egestas.</a></h4>
 <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu nibh elementum, accumsan ona
 neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 <div class="blog-footer">
@@ -324,17 +197,17 @@ neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 <a href="blog-standard.html">Web development</a>
 </div>
 </div>
-<div class="blog-content">
+<div class="blog-content"  style="background-color: #ebfbfc;">
 <ul class="blog-meta">
-<li><a href="blog-standard.html">May 20, 2023</a></li>
-<li><a href="blog-standard.html">Comment (3)</a></li>
+<li><a href="#" style="color: black">May 20, 2023</a></li>
+<li><a href="#" style="color: black">Comment (3)</a></li>
 </ul>
-<h4><a href="blog-details.html">Navigating the Journey off Cloud Solution.</a></h4>
+<h4><a href="#" style="color: black">Navigating the Journey off Cloud Solution.</a></h4>
 <p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu nibh elementum, accumsan ona
 neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 <div class="blog-footer">
 <div class="read-btn">
-<a href="blog-details.html">Read More
+<a href="#">Read More
 <svg width="12" height="12" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
 </svg>
@@ -353,43 +226,7 @@ neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 </div>
 </div>
 </div>
-<div class="col-md-12 wow animate fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-<div class="single-blog magnetic-item">
-<div class="blog-img">
-<img class="img-fluid" src="assets/img/inner-pages/blog-standard-04.png" alt>
-<div class="blog-tag">
-<a href="blog-standard.html">Web development</a>
-</div>
-</div>
-<div class="blog-content">
-<ul class="blog-meta">
-<li><a href="blog-standard.html">May 20, 2023</a></li>
-<li><a href="blog-standard.html">Comment (3)</a></li>
-</ul>
-<h4><a href="blog-details.html">Donec finibus laoreet exte eu pellentesque. </a></h4>
-<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Etiam eu nibh elementum, accumsan ona
-neque ac, aliquet nunc. In eu ipsum fringilla.</p>
-<div class="blog-footer">
-<div class="read-btn">
-<a href="blog-details.html">Read More
-<svg width="12" height="12" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
-</svg>
-</a>
-</div>
-<div class="social-area">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-<span><img src="assets/img/home-3/plain-icon.svg" alt></span>
-</div>
-</div>
-</div>
-</div>
-</div>
+
 </div>
 <div class="row">
 <nav aria-label="Page navigation example">
@@ -407,8 +244,8 @@ neque ac, aliquet nunc. In eu ipsum fringilla.</p>
 </nav>
 </div>
 </div>
-<div class="col-lg-4">
-<div class="widget-area">
+<div class="col-lg-4" >
+<div class="widget-area" style="background-color: #ebfbfc;">
 <div class="single-widgets widget_search">
 <form>
 <div class="wp-block-search__inside-wrapper ">
@@ -419,16 +256,16 @@ Search
 </div>
 </form>
 </div>
-<div class="single-widgets widget_egns_categoris">
+<div class="single-widgets widget_egns_categoris" style="background-color: #ebfbfc;">
 <div class="widget-title">
 <h4>Category</h4>
 </div>
 <ul class="wp-block-categoris-cloud">
-<li><a href="blog.html"><span>Web Design</span> <span class="number-of-categoris">(30)</span></a></li>
-<li><a href="blog.html"><span>Apps Development</span> <span class="number-of-categoris">(18)</span> </a></li>
-<li><a href="blog.html"><span>Software Development</span> <span class="number-of-categoris">(21)</span></a></li>
-<li><a href="blog.html"><span>Motion Graphics</span> <span class="number-of-categoris">(25)</span></a></li>
-<li><a href="blog.html"><span>UI/UX Design</span> <span class="number-of-categoris">(29)</span></a></li>
+<li><a href="#"><span>Web Design</span> <span class="number-of-categoris">(30)</span></a></li>
+<li><a href="#"><span>Apps Development</span> <span class="number-of-categoris">(18)</span> </a></li>
+<li><a href="#"><span>Software Development</span> <span class="number-of-categoris">(21)</span></a></li>
+<li><a href="#"><span>Motion Graphics</span> <span class="number-of-categoris">(25)</span></a></li>
+<li><a href="#"><span>UI/UX Design</span> <span class="number-of-categoris">(29)</span></a></li>
 </ul>
 </div>
 <div class="single-widgets widget_egns_recent_post">
@@ -438,29 +275,29 @@ Search
 <div class="recent-post-wraper">
 <div class="widget-cnt">
 <div class="wi">
-<a href="blog-details.html"><img src="assets/img/inner-pages/blog-sidebar-1.png" alt="image"></a>
+<a href="#"><img src="assets/img/inner-pages/blog-sidebar-1.png" alt="image"></a>
 </div>
 <div class="wc">
-<h6><a href="blog-details.html">Grant Distributions Conti nu to Incr Ease.</a></h6>
+<h6><a href="#">Grant Distributions Conti nu to Incr Ease.</a></h6>
 <a href="blog.html">May 18, 2023</a>
 </div>
 </div>
 <div class="widget-cnt">
 <div class="wi">
-<a href="blog-details.html"><img src="assets/img/inner-pages/blog-sidebar-2.png" alt="image"></a>
+<a href="#"><img src="assets/img/inner-pages/blog-sidebar-2.png" alt="image"></a>
 </div>
 <div class="wc">
-<h6><a href="blog-details.html">Distributions Conti nu to grant Incr Ease.</a></h6>
-<a href="blog.html">May 15, 2023</a>
+<h6><a href="#">Distributions Conti nu to grant Incr Ease.</a></h6>
+<a href="#">May 15, 2023</a>
 </div>
 </div>
 <div class="widget-cnt">
 <div class="wi">
-<a href="blog-details.html"><img src="assets/img/inner-pages/blog-sidebar-3.png" alt="image"></a>
+<a href="#"><img src="assets/img/inner-pages/blog-sidebar-3.png" alt="image"></a>
 </div>
 <div class="wc">
-<h6><a href="blog-details.html">Conti nu to Incr Ease malesuada sapien sed.</a></h6>
-<a href="blog.html">May 14, 2023</a>
+<h6><a href="#">Conti nu to Incr Ease malesuada sapien sed.</a></h6>
+<a href="#">May 14, 2023</a>
 </div>
 </div>
 </div>
@@ -470,15 +307,15 @@ Search
 <h4>All Tag</h4>
 </div>
 <p class="wp-block-tag-cloud">
-<a href="blog.html">Website</a>
-<a href="blog.html">Web Design</a>
-<a href="blog.html">Development</a>
-<a href="blog.html">Graphic Design</a>
-<a href="blog.html">Graphic</a>
-<a href="blog.html">UI/UX Design</a>
-<a href="blog.html">Activities</a>
-<a href="blog.html">Software Design</a>
-<a href="blog.html">3D Design</a>
+<a href="#">Website</a>
+<a href="#">Web Design</a>
+<a href="#">Development</a>
+<a href="#">Graphic Design</a>
+<a href="#">Graphic</a>
+<a href="#">UI/UX Design</a>
+<a href="#">Activities</a>
+<a href="#">Software Design</a>
+<a href="#">3D Design</a>
 </p>
 </div>
 </div>
@@ -489,114 +326,6 @@ Search
 
 
 <!-- Footer Starts -->
-<!-- <footer>
-<div class="footer-top">
-<div class="container">
-<div class="row">
-</div>
-</div>
-</div>
-<div class="container">
-<div class="row g-lg-4 gy-5">
-<div class="col-lg-4 col-sm-6 d-flex">
-<div class="footer-widget">
-<div class="footer-contact mb-40">
-<h4>
-<svg width="14" height="20" viewBox="0 0 14 20" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.9213 3.4249C11.7076 1.33021 9.55162 0.0504883 7.15416 0.00158203C7.05181 -0.000527344 6.9488 -0.000527344 6.84642 0.00158203C4.449 0.0504883 2.29306 1.33021 1.07923 3.4249C-0.161468 5.566 -0.195414 8.13787 0.988414 10.3047L5.94791 19.3823C5.95013 19.3863 5.95236 19.3904 5.95466 19.3944C6.17287 19.7736 6.56377 20 7.00037 20C7.43693 20 7.82783 19.7736 8.04599 19.3944C8.0483 19.3904 8.05052 19.3863 8.05275 19.3823L13.0122 10.3047C14.196 8.13787 14.162 5.566 12.9213 3.4249ZM7.00029 9.06252C5.44947 9.06252 4.18779 7.80084 4.18779 6.25002C4.18779 4.6992 5.44947 3.43752 7.00029 3.43752C8.55111 3.43752 9.81279 4.6992 9.81279 6.25002C9.81279 7.80084 8.55115 9.06252 7.00029 9.06252Z" />
-</svg>
-Address
-</h4>
-<a href="#">A929 , 9th floor
-    Bhutani Alphathum , Sector-90
-    Noida 201305</a>
-</div>
-
-<div class="footer-contact">
-<h6>See Our New updates</h6>
-<form>
-<div class="form-inner">
-<input type="text" placeholder="Email here...">
-<button type="submit">
-<svg width="17" height="17" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
-</svg>
-</button>
-</div>
-</form>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6 d-flex justify-content-lg-start justify-content-sm-end">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Our Solutions</h4>
-</div>
-<div class="menu-container">
-<ul>
-<li><a href="service.html">Web Development</a></li>
-<li><a href="service.html">Mobile Development</a></li>
-<li><a href="service.html">Cloud Services</a></li>
-<li><a href="service.html">Network Connectivity</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-2 col-sm-6 d-flex justify-content-lg-center">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Company</h4>
-</div>
-<div class="menu-container">
-<ul>
-<li><a href="about.html">About Us</a></li>
-<li><a href="case-study.html">Case Study</a></li>
-<li><a href="blog.html">News & Article</a></li>
-<li><a href="team1.html">Our Team</a></li>
-</ul>
-</div>
-</div>
-</div>
-<div class="col-lg-3 col-sm-6 d-flex justify-content-sm-end">
-<div class="footer-widget">
-<div class="widget-title">
-<h4>Resources</h4>
-</div>
-<div class="menu-container">
-<ul>
-<li><a href="#">Privacy Policy</a></li>
-<li><a href="#">Support Policy</a></li>
-<li><a href="#">Terms & Conditions</a></li>
-<li><a href="#">Pricing Plan</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="footer-btm">
-<div class="container">
-<div class="row">
-<div class="col-lg-12">
-<div class="footer-btn-content">
-<div class="copyright-area">
-<p>©Copyright 2023 <a href="#">Around Tech Solutions</a> | Design By <a href="https://www.egenslab.com/">Egens Lab</a></p>
-</div>
-<div class="footer-social">
-<ul>
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.linkedin.com/"><i class="bx bxl-pinterest-alt"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-</footer> -->
 
 <?php include './assets/components/footer.php'; ?> 
 
@@ -631,5 +360,4 @@ Address
 <script src="assets/js/custom.js"></script>
 </body>
 
-<!-- Mirrored from demo-egenslab.b-cdn.net/html/Around Tech Solutions/preview/blog-standard.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 04 Oct 2024 10:51:01 GMT -->
 </html>

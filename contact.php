@@ -27,7 +27,7 @@
 <title>Around Tech Solutions</title>
 <link rel="icon" href="assets/img/sm-logo.svg" type="image/gif" sizes="20x20">
 </head>
-<body class="home-dark2 tt-magic-cursor">
+<body class="tt-magic-cursor">
 
 <div class="preloader">
 <div id="particles-background" class="vertical-centered-box"></div>
@@ -67,7 +67,7 @@
 <div class="col-12">
 <div class="breadcrumb-wrapper">
 <div class="breadcrumb-cnt">
-<span>Contact</span>
+<span >Contact</span>
 <h1>"For Any Querry"</h1>
 <div class="breadcrumb-list">
 <a href="index.html">Home</a><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt> Contact
@@ -84,16 +84,16 @@
 <div class="row g-lg-4 gy-5">
 <div class="col-lg-6">
 <div class="contact-content">
-<span>CONTACT WITH US</span>
-<h2>LET’S WORK TOGETHER?</h2>
-<p>I have worls-class, flexible support via live chat, email and hone. I guarantee that you’ll be able to have any issue resolved within 24 hours.</p>
+<span style="color: black">CONTACT WITH US</span>
+<h2 style="color: black">LET’S WORK TOGETHER?</h2>
+<p style="color: black">I have worls-class, flexible support via live chat, email and hone. I guarantee that you’ll be able to have any issue resolved within 24 hours.</p>
 <div class="informations">
 <div class="single-info">
 <div class="icon">
 <i class="fas fa-map-marker-alt"></i>
 </div>
 <div class="info">
-<p><br>A 929 , 9th floor
+<p style="color: black"><br>A 929 , 9th floor
     Bhutani Alphathum , Sector-90
     Noida 201305</p>
 </div>
@@ -103,7 +103,7 @@
 <i class="fas fa-phone-alt"></i>
 </div>
 <div class="info">
-<a href="tel:05661111985">+91 8979369386</a>
+<a href="tel:05661111985" style="color: black">+91 8979369386</a>
 
 </div>
 </div>
@@ -112,72 +112,71 @@
 <i class="far fa-envelope"></i>
 </div>
 <div class="info">
-<a href="#"><span class="__cf_email__" data-cfemail="8ee7e0e8e1ceebf6efe3fee2eba0ede1e3">[email&#160;protected]</span></a>
-<a href="#"><span class="__cf_email__" data-cfemail="deb7b0b8b19eadabaeaeb1acaaf0bdb1b3">[email&#160;protected]</span></a>
+<a href="#" style="color: black"><span class="__cf_email__" data-cfemail="8ee7e0e8e1ceebf6efe3fee2eba0ede1e3">[email&#160;protected]</span></a>
 </div>
 </div>
 </div>
 <div class="follow-area">
-<h5 class="blog-widget-title">Follow Us</h5>
-<p class="para">Follow us on Social Network</p>
+<h5 class="blog-widget-title" style="color: black">Follow Us</h5>
+<p class="para" style="color: black">Follow us on Social Network</p>
 <div class="blog-widget-body">
-<ul class="follow-list d-flex flex-row align-items-start gap-4">
-<li><a href="https://www.facebook.com/"><i class="bx bxl-facebook"></i></a></li>
-<li><a href="https://www.twitter.com/"><i class="bx bxl-twitter"></i></a></li>
-<li><a href="https://www.instagram.com/"><i class="bx bxl-instagram"></i></a></li>
-<li><a href="https://www.pinterest.com/"><i class="bx bxl-pinterest"></i></a></li>
+<ul class="follow-list d-flex flex-row align-items-start gap-4" >
+<li><a href="https://www.facebook.com/" style="color: black"><i class="bx bxl-facebook"></i></a></li>
+<li><a href="https://www.twitter.com/" style="color: black"><i class="bx bxl-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/" style="color: black"><i class="bx bxl-instagram"></i></a></li>
+<li><a href="https://www.pinterest.com/" style="color: black"><i class="bx bxl-pinterest"></i></a></li>
 </ul>
 </div>
 </div>
 </div>
 </div>
-<div class="col-lg-6">
+<div class="col-lg-6" >
 <div class="contact-form-wrap">
-<div class="form-tltle">
-<h5>Make a Free Consulting</h5>
+<div class="form-tltle" style="background-color: #ebfbfc;">
+<h5 style="color: black">Make a Free Consulting</h5>
 </div>
-<div class="contact-form">
+<div class="contact-form" style="background-color: #ebfbfc;">
 <form>
 <div class="row">
 <div class="col-md-6 mb-20">
 <div class="form-inner">
-<label>first name</label>
+<label style="color: black">first name</label>
 <input type="text">
 </div>
 </div>
 <div class="col-md-6 mb-20">
 <div class="form-inner">
-<label>Last name</label>
+<label style="color: black">Last name</label>
 <input type="text">
 </div>
 </div>
 <div class="col-lg-12 mb-20">
 <div class="form-inner">
-<label>Company/Organization</label>
+<label style="color: black">Company/Organization</label>
 <input type="text">
 </div>
 </div>
 <div class="col-lg-12 mb-20">
 <div class="form-inner">
-<label>Email</label>
+<label style="color: black">Email</label>
 <input type="email">
 </div>
 </div>
 <div class="col-lg-12 mb-20">
 <div class="form-inner">
-<label>Phone</label>
+<label style="color: black">Phone</label>
 <input type="email">
 </div>
 </div>
 <div class="col-lg-12 mb-20">
 <div class="form-inner">
-<label>Message</label>
+<label style="color: black">Message</label>
 <textarea></textarea>
 </div>
 </div>
 <div class="col-lg-12">
 <div class="form-inner">
-<button class="primary-btn3" type="submit">Submit</button>
+<button class="primary-btn3" type="submit" style="color: black">Submit</button>
 </div>
 </div>
 </div>
